@@ -1,8 +1,9 @@
 {
   "name": "foo",
   "version": "1.0.0",
-  "private": true,
+  "main": "index.js",
+  "license": "MIT",
   "dependencies": {
-    "tree-kill": "*"
+    "tree-kill": "^1.2.0"
   }
 }
