@@ -25,11 +25,11 @@ Trace:
 
 npm manifest: 
   {
-    "name": "foo",
+    "name": "bar",
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-      "bar": "link:../bar"
+      "bar": "link:../foo"
     }
   }
 
