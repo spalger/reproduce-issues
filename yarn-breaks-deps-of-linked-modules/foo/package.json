@@ -1,0 +1,10 @@
+{
+  "name": "foo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bar": "link:../bar",
+    "chalk": "^2.4.1",
+    "elasticsearch": "13.0.1"
+  }
+}
