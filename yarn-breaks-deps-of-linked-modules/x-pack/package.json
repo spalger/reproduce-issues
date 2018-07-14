@@ -1,0 +1,13 @@
+{
+  "name": "x-pack",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "13.0.1"
+  },
+  "devDependencies": {
+    "@kbn/dev-utils": "link:../kbn-dev-utils",
+    "@kbn/es": "link:../kbn-es",
+    "chalk": "^2.4.1"
+  }
+}

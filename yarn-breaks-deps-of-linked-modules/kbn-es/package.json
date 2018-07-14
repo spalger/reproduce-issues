@@ -1,0 +1,10 @@
+{
+  "name": "@kbn/es",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@kbn/dev-utils": "../kbn-dev-utils",
+    "chalk": "^2.4.1",
+    "elasticsearch": "^14.1.0"
+  }
+}
