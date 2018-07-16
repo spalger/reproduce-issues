@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bar": "link:../bar",
+    "noop": "0.2.0"
+  }
+}
