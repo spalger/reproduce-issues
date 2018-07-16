@@ -1,3 +1,5 @@
+> Filed as https://github.com/yarnpkg/yarn/issues/6113
+
 # Updating node_modules breaks transitive deps of packages installed with `link:`
 
 When `yarn` is updating an existing node_modules directory any packages that conflict with the dependencies in `link:` installed packages are installed into to the node_modules of the `link:`ed package, without considering all of its dependencies.
