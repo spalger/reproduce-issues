@@ -1,0 +1,14 @@
+{
+  "name": "webpack-dll-csp",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build-dll": "webpack --config webpack.dll.config.js",
+    "start": "yarn run build-dll && webpack-dev-server"
+  },
+  "dependencies": {
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
