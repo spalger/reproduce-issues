@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "private": true,
+  "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/oppsy": "^3.0.0"
+  }
+}
