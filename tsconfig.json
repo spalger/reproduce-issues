@@ -1,0 +1,16 @@
+{
+  "files": [
+    "index.mts"
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2022",
+    "importHelpers": true,
+    "declaration": true,
+    "declarationMap": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "strict": true,
+    "sourceMap": true
+  }
+}
